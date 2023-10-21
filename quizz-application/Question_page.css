@@ -1,0 +1,8 @@
+﻿body {
+
+}
+.op_container {
+    background-image: url("img\Question\bg\Option_frame.png");
+    background-size: contain;
+    height: 10vh;
+}

@@ -1,0 +1,19 @@
+﻿body {
+    background-image: url('img/main_bg.jpg');
+    height: 100vh;
+    width: 100vw;
+}
+.bg-2 {
+    background-image: url('img/C_A.png');
+    background-size: cover;
+    height: 263px;
+    margin-left: 337px;
+    margin-right: 366px;
+}
+.table {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.T_c{
+    color:#1de7e5
+}
